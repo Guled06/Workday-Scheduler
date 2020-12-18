@@ -13,9 +13,7 @@ The user of this application will be able to add important events to his/her dai
 <br>
 
 Below is the screenshot preview of the application. You can visit this link to visit the page to the application. In this first picture, it is displaying how the application's styling looks like. It shows the application's title and what the application was designed to be used for. In this second picture, it is displaying how the application can be utilized. The user can write his/her events on the area that is corrosponding with the time and then the user can save the events they scheduled. Once saved, the user can leave the application and once returned back to the application, their saved events will still be written on the time they have saved under. 
+<br>
 
 
 <img src="schedule/picture1.png" alt="">
-<br>
-<br>
-<img src="schedule/picture2.png" alt="">
