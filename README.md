@@ -3,7 +3,8 @@
 During my Coding Bootcamp at the UCSD Trilogy coding program, we were given assignments to work with Javascript and JQuery. This was my third assignment where I worked with using Javascript and JQuery. This was my second time in working with Javascript during my experience at the UCSD Triology Coding Bootcamp. You can review my previous Javascript application that I completed HERE. In my previous project/assignment, I designed an application that allowed the user to generate a random password using lowercase and uppercase letter, numbers and special characters.
 <br>
 <br>
-<p>You can visit the application by clicking <a style="color: rgb(145, 31, 31);" href="https://guled06.github.io/Workday-Scheduler/">Workday Scheduler</a>. I hope this application serves you well and assists you with managing your time to your satisfication.</p>
+<p>You can visit the application by clicking <a href="https://guled06.github.io/Workday-Scheduler/">WORKDAY SCHEDULER</a>. I hope this application serves you well and assists you with managing your time to your satisfication.</p>
+<br>
 
 <h1>DESCRIPTION</h1>
 <hr>
