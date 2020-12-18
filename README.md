@@ -16,4 +16,6 @@ Below is the screenshot preview of the application. You can visit this link to v
 <br>
 
 
-<img src="schedule/picture1.png" alt="">
+<img src="schedule/picture1.png">
+<br>
+<img src="schedule/picture2.png">
