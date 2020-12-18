@@ -1,4 +1,3 @@
-
 var currentdayEl = $("#currentDay");
 currentdayEl.text(moment().format("MMMM D, YYYY"));
 var currentTime = parseInt(moment().format('k'));
@@ -34,6 +33,7 @@ function getItem () {
 
 }
 getItem();
+
 
 
 
